@@ -1,0 +1,60 @@
+html {
+    font-size: 62.5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    font-size: 1.4rem;
+    background-color: #333;
+    color: #EEE;
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+article {
+    background-color: #444;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+article h2 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+article p {
+    font-size: 2rem;
+}
+
+article small {
+    font-size: 1.5rem;
+}
+
+article button {
+    background: none;
+    border: 2px solid #FFF;
+    font-size: 1.5rem;
+    color: #FFF;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 1.5rem;
+}
+
+article button:hover {
+    opacity: 0.7;
+}
+
+.click{
+    background-color: white;
+    color: #444;
+}
